@@ -1,1 +1,3 @@
 User-agent: *
+Disallow: /404.html
+Sitemap: https://george-botros.github.io/docky-landing-page-new/sitemap.xml
