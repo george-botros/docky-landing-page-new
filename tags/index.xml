@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Docky</title>
-    <link>https://george-botros.github.io/docky-landing-page-new/tags/</link>
+    <link>http://localhost:1313/docky-landing-page-new/tags/</link>
     <description>Recent content in Tags on Docky</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>CIS 3500 Final Project by George Botros, Christian Ishimwe, Matthew Yin, Michael Imevbore</copyright>
-    <atom:link href="https://george-botros.github.io/docky-landing-page-new/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/docky-landing-page-new/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Featured</title>
-      <link>https://george-botros.github.io/docky-landing-page-new/tags/featured/</link>
+      <link>http://localhost:1313/docky-landing-page-new/tags/featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://george-botros.github.io/docky-landing-page-new/tags/featured/</guid>
+      <guid>http://localhost:1313/docky-landing-page-new/tags/featured/</guid>
       <description></description>
     </item>
     <item>
       <title>Index</title>
-      <link>https://george-botros.github.io/docky-landing-page-new/tags/index/</link>
+      <link>http://localhost:1313/docky-landing-page-new/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://george-botros.github.io/docky-landing-page-new/tags/index/</guid>
+      <guid>http://localhost:1313/docky-landing-page-new/tags/index/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>https://george-botros.github.io/docky-landing-page-new/tags/privacy/</link>
+      <link>http://localhost:1313/docky-landing-page-new/tags/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://george-botros.github.io/docky-landing-page-new/tags/privacy/</guid>
+      <guid>http://localhost:1313/docky-landing-page-new/tags/privacy/</guid>
       <description></description>
     </item>
   </channel>
